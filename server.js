@@ -25,7 +25,7 @@ function authMiddleware(req, res, next) {
   next();
 }
 app.get('/', (req, res) => {
-  res.send("Hello I'm Alaa Eid");
+  res.send('Hello Alaa');
 });
 
 app.get('/books', (req, res) => {
