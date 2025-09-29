@@ -77,6 +77,69 @@
       "reviewCount": 12,
       "inStock": false,
       "featured": false
+    },
+    {
+      "title": "New Book Title",
+      "author": "Author Name",
+      "description": "Book description",
+      "price": 29.99,
+      "genre": [
+        "Fiction"
+      ],
+      "tags": [
+        "Tag1"
+      ],
+      "datePublished": "2023-01-01",
+      "pages": 300,
+      "language": "English",
+      "publisher": "Publisher Name",
+      "id": "4",
+      "rating": 0,
+      "reviewCount": 0,
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "title": "New Book Title",
+      "author": "Alaa Eid",
+      "description": "Book description",
+      "price": 29.99,
+      "genre": [
+        "Fiction"
+      ],
+      "tags": [
+        "Tag1"
+      ],
+      "datePublished": "2023-01-01",
+      "pages": 300,
+      "language": "English",
+      "publisher": "Alaa Eid",
+      "id": "5",
+      "rating": 0,
+      "reviewCount": 0,
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "title": "New Book Title",
+      "author": "Alaa Eid",
+      "description": "Book description",
+      "price": 29.99,
+      "genre": [
+        "Fiction"
+      ],
+      "tags": [
+        "Tag1"
+      ],
+      "datePublished": "2023-01-01",
+      "pages": 300,
+      "language": "English",
+      "publisher": "Alaa Eid",
+      "id": "6",
+      "rating": 0,
+      "reviewCount": 0,
+      "inStock": true,
+      "featured": false
     }
   ]
 }
